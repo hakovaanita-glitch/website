@@ -1,0 +1,131 @@
+.image{background-image: url(https://i.pinimg.com/1200x/5b/e3/ce/5be3ce390b26ad79d4aa9360d6595694.jpg);
+
+  }
+
+ol{
+
+  font-family: Arial;
+
+  font-size: 16px;
+
+  background-color: #DDA0DD;
+
+}
+
+p{
+
+  font-family: Arial;
+
+  font-size: 20px;
+
+}
+
+head{
+
+  text-align: center;
+
+  font-size: 20px;
+
+  font-weight: bold;
+
+  font-style: oblique;
+
+  font-family: arial;
+
+  color: brown;
+
+  background-color: #9370DB;
+
+}
+
+footer{
+
+  text-align: left;
+
+  font-size: 15px;
+
+  font-weight: bold;
+
+  font-style: oblique;
+
+  font-family: arial;
+
+  color: brown;
+
+  background-color: #DA70D6;
+
+}
+
+h1{
+
+  font-family: Calibri;
+
+  font-size: 30px;
+
+  color:#8A2BE2;
+
+  text-align: center;
+
+}
+
+h2{
+
+  font-family: Calibri;
+
+  font-size: 30px;
+
+  color:#9370DB;
+
+  text-align: center;
+
+}
+
+mark{
+
+  font-family: Calibri;
+
+  font-size: 20px;
+
+  color:#4B0082;
+
+}
+
+.Div_2{
+
+  background-color:#6A5ACD;
+
+  text-align: left;
+
+}
+
+img{
+
+   border-radius: 30px;
+
+}
+
+.button-link{
+
+  display: inline-block;
+
+padding: 10px 20px;
+
+background-color: #4B0082;
+
+color: white;
+
+text-decoration: none;
+
+border-radius: 4px;
+
+font-family: Arial, sans-serif;
+
+font-size: 16px;
+
+}
+
+.button-link:hover {
+
+background-color: #4B0082;
+
+}
